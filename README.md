@@ -1,6 +1,6 @@
 # 구태원과 소윤교의 결혼식 모바일 청첩장
 이 repository는 결혼식 초대를 위한 모바일청첩장을 실행하기 위해 작성합니다.
-![메인사진](tmp)
+![메인사진]assets/img/portfolio/fullsize/1.jpg(tmp)
 
 
 ## 예식정보
